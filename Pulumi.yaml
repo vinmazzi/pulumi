@@ -1,0 +1,3 @@
+name: customer1
+runtime: python
+description: Deployment of customer1 using pulumi
